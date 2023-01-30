@@ -2,10 +2,10 @@ const times = document.getElementById("times");
 const laps = document.getElementById("laps");
 
 let clicked = false;
-let secondsPassed = 0;
 
 let formattedTime;
 let timer;
+let secondsPassed;
 
 zero();
 function zero() {
