@@ -1,0 +1,9 @@
+body {
+    background-color: darkblue;
+    color: white
+}
+
+#times{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 90px;
+}
